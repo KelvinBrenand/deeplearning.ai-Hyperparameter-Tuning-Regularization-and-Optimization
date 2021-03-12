@@ -1,5 +1,3 @@
-# deeplearning.ai-Hyperparameter-Tuning-Regularization-and-Optimization
-
-My codes from Coursera "Neural Networks and Deep Learning" course offered by deeplearning.ai 
+My codes from Coursera "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization" course offered by deeplearning.ai 
 
 https://www.coursera.org/learn/deep-neural-network
